@@ -28,7 +28,6 @@ This document explores the current state of research on sorting networks, focusi
 - [Recent Advances](#recent-advances)
 - [Open Problems](#open-problems)
 - [Research Directions](#research-directions)
-- [References](#references)
 
 ## Basic Concepts
 
