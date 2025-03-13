@@ -1,4 +1,4 @@
-# sorting-networks
+# Sorting-networks
 A comparator network Cn,k: k parallel horizontal lines, called wires (channels), 
 and a sequence of n vertical segments, each connecting two wires,
 called comparators.
